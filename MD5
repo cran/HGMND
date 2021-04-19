@@ -1,0 +1,8 @@
+2054726f5cda778e299fa2c9ff57cf6c *DESCRIPTION
+144ac5bbf5c54a8cc5510ba75135dc78 *NAMESPACE
+afe8659b34af644b82a3b95752764f1e *R/HGMND.R
+2d50f72c56f2f72cc5f3b1cbca3ce95a *R/getCluster.R
+88b025e3833417e13adafa5454225fcb *data/HGMND_SimuData.rda
+9ddbe863c69260a05e7d947cacb209da *man/HGMND.Rd
+13ab99d4b4eac7cb72a1d786012fb8ff *man/HGMND_SimuData.Rd
+3ed915867e3a07f8ba1b7f7a32753a9f *man/getCluster.Rd

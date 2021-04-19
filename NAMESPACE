@@ -1,0 +1,10 @@
+# export function
+export(HGMND)
+export(getCluster)
+
+# import function
+importFrom(genscore, get_h_hp)
+importFrom(genscore, get_elts)
+importFrom(genscore, make_domain)
+
+
